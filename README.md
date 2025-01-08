@@ -14,7 +14,7 @@ Soporta varias monedas, incluyendo:
 - COP (Peso colombiano)
 - USD (Dólar estadounidense)
 - MXN (Peso mexicano).
-- 
+
 El programa permite al usuario elegir su clave de API para acceder a la API de ExchangeRate-API.
 Interfaz de usuario simple en la consola.
 
