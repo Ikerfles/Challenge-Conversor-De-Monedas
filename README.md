@@ -6,7 +6,7 @@ El programa permite a los usuarios convertir una cantidad de dinero de una moned
 ## Características
 
 Conversión de divisas utilizando la API de ExchangeRate-API.
-Soporta varias monedas, incluyendo 
+Soporta varias monedas, incluyendo:
 - ARS (Peso argentino) 
 - BOB (Boliviano) 
 - BRL (Real brasileño)
@@ -14,6 +14,7 @@ Soporta varias monedas, incluyendo
 - COP (Peso colombiano)
 - USD (Dólar estadounidense)
 - MXN (Peso mexicano).
+- 
 El programa permite al usuario elegir su clave de API para acceder a la API de ExchangeRate-API.
 Interfaz de usuario simple en la consola.
 
